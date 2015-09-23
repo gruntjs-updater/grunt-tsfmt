@@ -1,22 +1,22 @@
 {
-  "name": "grunt-typescript-formatter",
+  "name": "grunt-tsfmt",
   "description": "Grunt formatter for TypeScript.",
   "version": "0.2.3",
-  "homepage": "https://github.com/daptiv/grunt-typescript-formatter",
+  "homepage": "https://github.com/Paden/grunt-tsfmt.git",
   "author": {
-    "name": "Jonathan Park, Daptiv"
+    "name": "Paden, Slava"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/daptiv/grunt-typescript-formatter.git"
+    "url": "git://github.com/Paden/grunt-tsfmt.git"
   },
   "bugs": {
-    "url": "https://github.com/daptiv/grunt-typescript-formatter/issues"
+    "url": "https://github.com/Paden/grunt-tsfmt/issues"
   },
   "licenses": [
     {
       "type": "Apache-2.0",
-      "url": "https://github.com/daptiv/grunt-typescript-formatter/blob/master/LICENSE.txt"
+      "url": "https://github.com/Paden/grunt-tsfmt/blob/master/LICENSE.txt"
     }
   ],
   "main": "Gruntfile.js",
