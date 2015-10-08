@@ -7,7 +7,7 @@ module.exports = function(grunt) {
 	var formatter = require("typescript-formatter");
 	var async = require('async');
 
-	grunt.registerMultiTask("typescript-formatter", "A formatter for TypeScript.", function() {
+	grunt.registerMultiTask('tsfmt', "A formatter for TypeScript.", function() {
 		var options = this.options({
 			replace: true,
 			dryRun: true,
